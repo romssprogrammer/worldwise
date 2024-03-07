@@ -1,0 +1,116 @@
+{
+  "animationStudios": [
+    {
+      "studioName": "Go-n",
+      "adress": "32 rue des Jeûneurs 75002 - Paris, France",
+      "webSite": "https://www.go-n.fr/",
+      "apply": "job@go-n.fr",
+      "contact": "",
+      "phone": "+1 514 868 2500",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "cityEmoji": "🏢",
+      "logoStudio": "public/Go-n.svg",
+      "transport": "",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 48.86988104250595,
+        "lng": 2.3448169558940735
+      },
+      "id": 17806753
+    },
+    {
+      "studioName": "Walt Disney Animation Studios",
+      "adress": "500 S Buena Vista St, Burbank, CA 91521, États-Unis",
+      "webSite": "https://www.go-n.fr/",
+      "apply": "job@go-n.fr",
+      "contact": "",
+      "phone": "+18185601000",
+      "cityName": "Burbank",
+      "country": "États-Unis",
+      "emoji": "us",
+      "cityEmoji": "🏢",
+      "logoStudio": "public/Walt_Disney_Animation_Studios_logo.svg.png",
+      "transport": "",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "not bad",
+      "position": {
+        "lat": 34.15642353946372,
+        "lng": -118.32519651158732
+      },
+      "id": 17806752
+    },
+    {
+      "studioName": "Mikros Image Montréal",
+      "adress": "740 Rue Saint Maurice,Suite 100 Montreal, QC H3C 1L5",
+      "webSite": "https://www.mikrosanimation.com/",
+      "apply": "job@go-n.fr",
+      "contact": "infomtl@mikrosimage.com",
+      "phone": "+1 514 868 2500",
+      "cityName": "Montreal",
+      "country": "Canada",
+      "location": [],
+      "emoji": "🇨🇦",
+      "cityEmoji": "🏢",
+      "logoStudio": "public/Mikros.png",
+      "transport": "",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 45.498913283420215,
+        "lng": -73.55990005977576
+      },
+      "id": 17856751
+    },
+    {
+      "studioName": "The Line Animation",
+      "adress": "Unit 2, De Beauvoir Block, 92-96 De Beauvoir Rd, London N1 4EN, Royaume-Uni",
+      "webSite": "https://www.thelineanimation.com/",
+      "apply": "job@go-n.fr",
+      "contact": "infomtl@mikrosimage.com",
+      "phone": "+44 20 30020224",
+      "cityName": "London",
+      "country": "United-Kingdom",
+      "location": [],
+      "emoji": "🇬🇧",
+      "cityEmoji": "🏢",
+      "logoStudio": "public/theline.png",
+      "transport": "",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 51.54225470164563,
+        "lng": -0.0799682620454413
+      },
+      "id": 98543545
+    },
+    {
+      "cityName": "New York",
+      "country": "US",
+      "emoji": "us",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": " yeah Amazing 😃",
+      "position": {
+        "lat": 40.712169411647956,
+        "lng": -74.00297382003032
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "animationStudioAdress": "",
+      "animationStudioName": "",
+      "emoji": "🇪🇸",
+      "date": "2023-10-17T15:52:33.755Z",
+      "notes": "",
+      "position": {
+        "lat": "40.36982792239443",
+        "lng": "-3.679842471702342"
+      },
+      "id": 98543546
+    }
+  ]
+}

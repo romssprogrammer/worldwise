@@ -1,0 +1,65 @@
+.logoStudioItem {
+  height: 30px;
+}
+
+.AnimationStudioItem,
+.AnimationStudioItem:link,
+.AnimationStudioItem:visited {
+  display: flex;
+  gap: 1.6rem;
+  align-items: center;
+
+  background-color: #42484d;
+  /* background-color: var(--color-dark--2); */
+  border-radius: 7px;
+  padding: 1rem 2rem;
+  border-left: 5px solid #00c4c4;
+  /* border-left: 5px solid var(--color-brand--2); */
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+
+.AnimationStudioItem--active {
+  border: 2px solid #00c46a;
+  border-left: 5px solid #00c46a;
+}
+
+.AnimationStudioItemLink {
+  color: aliceblue;
+}
+
+.emoji {
+  font-size: 2.6rem;
+  line-height: 1;
+}
+
+.name {
+  font-size: 1.7rem;
+  font-weight: 600;
+  margin-right: auto;
+}
+
+.date {
+  font-size: 1.5rem;
+}
+
+.deleteBtn {
+  height: 2rem;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: none;
+  background-color: #2d3439;
+  color: #ececec;
+  margin-left: auto;
+
+  font-size: 1.6rem;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.deleteBtn:hover {
+  background-color: var(--color-brand--1);
+  color: var(--color-dark--1);
+}
